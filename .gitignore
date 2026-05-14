@@ -7,6 +7,11 @@ data
 /data
 data/
 
+checkpoints
+.checkpoints
+/checkpoints
+checkpoints/
+
 # Environments
 .venv
 venv/
@@ -39,6 +44,8 @@ models/
 
 # C extensions
 *.so
+*.npy
+.npy
 
 # Distribution / packaging
 .Python
